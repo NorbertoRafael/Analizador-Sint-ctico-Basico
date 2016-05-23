@@ -1,0 +1,8 @@
+Tipo_Dato,variable,;
+;,Tipo_Dato_variable,
+variable,=,expresion,;
+=,expresion,variable,;
+vector,[,expresion,],=,expresion,;
+vector,],expresion,[,=,expresion,;
+if,(,expresion,),then,comando,;
+if,2,expresion,(,then,comando,;
